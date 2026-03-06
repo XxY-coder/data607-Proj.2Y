@@ -1,0 +1,19 @@
+---
+title: "Proj#2"
+author: "ZIHAO YU"
+format: html
+editor: visual
+---
+
+# 1.How will I tackle the problem?
+
+Upload the dataset to GitHub and export it. After cleaning and analyzing the data, generate visualizations through code and draw conclusions.
+
+# 2.What data challenges do I anticipate?
+
+Data cleaning may be challenging. If the data is complex and requires creating appropriate charts, I would utilize an LLM to assist with this task.
+
+source: "https://github.com/XxY-coder/data607-Proj.2Y/raw/refs/heads/main/food_coded.csv"
+        "https://github.com/XxY-coder/data607-Proj.2Y/raw/refs/heads/main/4243802.csv"
+        "https://github.com/XxY-coder/data607-Proj.2Y/raw/refs/heads/main/wide_format_co2_emission_dataset.csv"
+        
